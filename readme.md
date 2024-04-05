@@ -1,2 +1,1 @@
-[bookmarks](https://github.com/bugbuster-dev/repos/bookmarks.md)  
-
+[bookmarks](https://github.com/bugbuster-dev/repos/blob/main/bookmarks.md)
