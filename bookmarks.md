@@ -2,6 +2,10 @@
 * https://github.com/pyTooling/Actions/tree/main/releaser
 
 --------
+
+https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+--------
 https://github.com/ludocode/mpack
 
 --------
