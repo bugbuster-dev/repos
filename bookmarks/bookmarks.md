@@ -3,10 +3,6 @@ https://github.com/alicevision/AliceVision
 
 --------
 
-https://github.com/teamfinalmouse/xlat/wiki/Build-your-own-XLAT
-
---------
-
 https://github.com/LuaJIT/LuaJIT
 
 --------
