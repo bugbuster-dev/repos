@@ -1,4 +1,7 @@
 https://github.com/deepseek-ai/DeepSeek-R1
+
+https://ollama.com/library/deepseek-r1
+
 ----
 
 https://github.com/meta-llama/llama3
